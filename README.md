@@ -6,6 +6,10 @@
 ☎️ Find me  
 - [Email](syjzjyh@163.com)
 
+⭐ Interesting
+JavaScript Node TypeScript
+React Vue
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masterjiyuhang)](https://github.com/anuraghazra/github-readme-stats)
 <!---
