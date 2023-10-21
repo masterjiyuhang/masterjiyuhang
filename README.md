@@ -1,7 +1,7 @@
 # ErHang
 
 
-👋:wave: Hi, I’m ErHang, a coder with little experience.
+👋:wave: Hi, I’m ErHang, a front coder.
 
 ☎️ Find me  
 - [Email](syjzjyh@163.com)
